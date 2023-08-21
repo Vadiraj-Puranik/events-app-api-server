@@ -7,4 +7,5 @@ class AppConfig {
     team = 'Vadiraj Puranik';
     version = '1.0.0';
 }
+
 module.exports = AppConfig;
